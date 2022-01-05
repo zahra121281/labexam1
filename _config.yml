@@ -20,7 +20,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Theme Antarctica
-email: your-email@domain.com
+email: zahra121281alizadeh@gmail.com
 author: SdtElectronics
 
 # Copyright setting
@@ -84,7 +84,7 @@ defaults:
       path: ""
       type: "pages"
     values:
-      avatar: "assets/img/a-default.png"
+      avatar: "assets/img/sky.png"
 
 # Build settings
 highlighter: rouge

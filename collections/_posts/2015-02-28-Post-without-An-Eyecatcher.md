@@ -1,10 +1,16 @@
 ---
 layout: article
-title: Post without An Eyecatcher
+title: گفتن خاطره
 categories: demo
 tags: example
 ---
 
-Eyecatcher is a picture to be displayed in the post preview and on top of the post. If it is not set, there will be a placeholder with the same pattern as the page background in the preview, while nothing will be on top of the post.
+## سه تا از بهترین و بدترین خاطرات 
+از بهترن حاطرات من پروژه جنگو و کلا تمامی جلساتی بود که در کلاس حاضر میشدم و از بدترین خاطرات من امروز خواهد بود چوون در ایتدای کار با قطعی نت مواجه شدم
+
+<img src="/assets/img/screen.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+---
 
 
